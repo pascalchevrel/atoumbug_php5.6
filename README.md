@@ -3,6 +3,7 @@ atoumbug_php5.6
 
 Run:
 ```
+composer install
 php vendor/atoum/atoum/bin/atoum -d tests/units/
 ```
 
