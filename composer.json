@@ -1,0 +1,9 @@
+{
+    "require": {
+        "atoum/atoum" : "dev-master"
+    },
+
+    "autoload": {
+        "psr-0": {"Transvision": "classes/"}
+    }
+}
